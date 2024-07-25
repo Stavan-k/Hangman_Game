@@ -3,8 +3,8 @@ Welcome to the Hangman Game project! This is a simple implementation of the clas
 
 Project Structure
 The project consists of three main files:
-1. word_list.py: Contains a list of words that will be used in the game.
+1. <u>word_list.py</u>: Contains a list of words that will be used in the game.
    
-2. hangman_body.py: Contains the ASCII art representations of the hangman figure. This visual feedback shows the progress of the hangman figure as incorrect guesses are made.
+2. <u>hangman_body.py</u>: Contains art representations of the hangman figure. This visual feedback shows the progress of the hangman figure as incorrect guesses are made.
 
-3. hangman_game.py: The main Python script that runs the game. It reads from word_list.py to select words and from hangman_body.py to display the hangman figure. This script handles the game logic, user input, and game display.
+3. <u>hangman_game.py</u>: The main Python script that runs the game. It reads from word_list.py to select words and from hangman_body.py to display the hangman figure. This script handles the game logic, user input, and game display.
